@@ -4,6 +4,8 @@ https://tianchi.aliyun.com/competition/entrance/532073
 ## 汇报PPT
 https://github.com/ralgond/Codes-for-CAAI-BDSC2023-CUP-1st-place-solution/blob/main/BDSC2023.pptx
 
+解题思路是基于知识图谱中的链接预测技术。
+
 ## 软硬件环境
 
 PyTorch  1.11.0
